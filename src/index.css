@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Kanit", sans-serif;
+  font-style: normal;
+  font-weight: 550;
+  color: #212121;
+}
