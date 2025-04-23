@@ -12,7 +12,7 @@ export default function HomePage() {
           className=" absolute h-full object-cover"
         />
         <div
-          className=" h-full absolute left-[28.5%] flex flex-col items-start justify-center text-[#5DF591] text-[64px] leading-[1]"
+          className=" h-full absolute left-[28.5%] flex flex-col items-start justify-center text-[#5DF591] text-[64px] leading-[1.2]"
           data-aos="fade-up"
           data-aos-duration="1200"
         >
