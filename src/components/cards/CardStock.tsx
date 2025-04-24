@@ -31,7 +31,7 @@ const DetailLinkOption = [
     icon: HomeInvestmentUsStockIcon,
     bg: HomeInvestmentUsStockBg,
     image: HomeInvestmentUsStock,
-    path: "/invest/us-stock",
+    path: "/invest/stock-us",
   },
   {
     label: "ทองคำ",
@@ -49,7 +49,7 @@ const DetailLinkOption = [
     icon: HomeInvestmentThStockIcon,
     bg: HomeInvestmentThStockBg,
     image: HomeInvestmentThStock,
-    path: "/invest/th-stock",
+    path: "/invest/stock-th",
   },
   {
     label: "หุ้นกู้",
@@ -93,14 +93,19 @@ export default function CardStock() {
               <h1 className=" text-[28px]" style={{ color: Color[index] }}>
                 {label}
               </h1>
-              <p className="font-light leading-[1.5] text-[#4D5053]">{detail}</p>
+              <p className="font-light leading-[1.5] text-[#4D5053]">
+                {detail}
+              </p>
               <img
                 src={image}
                 alt="home-investment-us-stock"
                 className=" absolute bottom-0 right-0 w-64"
               />
-              <Link to={path}>
-                <Icon icon="iconamoon:arrow-right-2-light" />
+              <Link
+                to={path}
+                className="flex items-center justify-center w-10 h-10 rounded-full border-[1px] border-[#E1E1E1]"
+              >
+                <Icon icon="iconamoon:arrow-right-2-light" color="#4D5053" />
               </Link>
             </div>
             <div
