@@ -1,7 +1,7 @@
-import { Link } from "react-router-dom";
 import { Icon } from "@iconify/react";
+import { useEffect, useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 import { tv } from "tailwind-variants";
-import { useState } from "react";
 
 type DropdownComponentProps = {
   path: {
@@ -46,9 +46,20 @@ export default function DropdownComponent({ path }: DropdownComponentProps) {
   } = linkLabel();
 
   const [activePath, setActivePath] = useState<string | null>(null);
+  const location = useLocation();
+
+  useEffect(() => {
+    const currentPath = path.find(
+      (item) => item.pathname === location.pathname
+    );
+
+    setActivePath(currentPath ? currentPath.pathname : location.pathname);
+  }, [location.pathname, path]);
 
   const togglePath = (pathname: string) => {
-    setActivePath((prev) => (prev === pathname ? null : pathname));
+    setActivePath((prev) =>
+      prev === pathname || prev === location.pathname ? null : pathname
+    );
   };
 
   return (
@@ -86,7 +97,7 @@ export default function DropdownComponent({ path }: DropdownComponentProps) {
           {list.length > 0 && (
             <div className={dropdown()}>
               {list.map(({ pathname, name }, subIndex) => (
-                <span key={subIndex}>
+                <span key={subIndex} onClick={() => togglePath(pathname)}>
                   <Link to={pathname} className={base()}>
                     <span className="relative group/subList">
                       {activePath === pathname && (

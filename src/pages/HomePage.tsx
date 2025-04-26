@@ -13,6 +13,9 @@ import HomeArticleIcon from "/home-article-icon.webp";
 import HomeStockIcon from "/home-stock-icon.webp";
 import HomeFundIcon from "/home-fund-icon.webp";
 import HomeDictIcon from "/home-dict-icon.webp";
+import HomeManage from "/home-manage.gif";
+import KkpLogo from "/kkp-logo.webp";
+import DimeLogo from "/dime-logo.webp";
 //Component
 import HightLightText from "../components/typograpy/HightLightText";
 //Router
@@ -341,113 +344,64 @@ export default function HomePage() {
           </div>
         </div>
       </div>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, repellat
-      aspernatur dolor facere corporis vel sunt qui sequi. Optio vitae
-      temporibus esse ducimus, doloribus accusantium! Natus exercitationem
-      adipisci temporibus obcaecati amet illum! Itaque nulla, voluptatum
-      voluptates illo excepturi explicabo esse ad architecto iste nostrum
-      incidunt expedita sequi debitis, quibusdam odit ipsum earum a eius,
-      repudiandae enim dignissimos eveniet. Vel quisquam, mollitia
-      exercitationem possimus deleniti alias debitis quo facere est dignissimos
-      natus doloremque quaerat, odit nostrum ducimus inventore unde! Rem amet
-      quisquam molestiae? Quo illum corrupti dolor adipisci blanditiis. At ex
-      rem voluptatem culpa aut commodi suscipit soluta, molestiae deserunt
-      reiciendis laboriosam iste. Eaque quod fugit cupiditate dolorem voluptatem
-      enim harum, maiores distinctio, libero omnis corrupti dolorum esse
-      similique quam corporis perferendis nam officiis ipsa doloribus pariatur!
-      Possimus assumenda corporis, rem, maxime iste dolores accusantium non
-      eveniet aperiam distinctio tenetur officia iusto eum minus mollitia ea
-      molestiae iure molestias cupiditate voluptates. Aut animi, amet suscipit
-      doloremque quasi, sit ab architecto dolor sunt eveniet voluptas qui
-      possimus velit sint aliquam repellat sed nobis! Autem tempore repellendus,
-      voluptate unde natus impedit. Reiciendis error explicabo autem fuga.
-      Consequuntur, voluptatibus ea. Nihil ipsam quasi voluptas accusamus modi
-      itaque error quibusdam mollitia hic blanditiis. Animi corporis quo veniam
-      tempora doloremque consequuntur, voluptate rerum. A quae odio tenetur
-      perferendis consequuntur unde, soluta voluptatum pariatur blanditiis et
-      voluptatem, quod accusamus est harum. Ad minus molestiae iusto harum
-      placeat earum est odit mollitia amet quaerat aliquid nemo hic blanditiis
-      tempora quia alias sed odio distinctio, itaque culpa rem. Quidem dolorem
-      quis veniam cumque. Facilis expedita explicabo iusto assumenda! Est eum
-      impedit, quaerat quos quae recusandae, velit laudantium eaque nisi iste
-      dolor voluptas? Voluptatibus harum tenetur corporis optio praesentium
-      nesciunt velit dolorum repellat corrupti cupiditate id quae dolor ipsa,
-      alias facere nemo repellendus dolores ut aliquam dignissimos recusandae
-      minus. Sapiente, recusandae? Ullam aliquid facere assumenda, natus eaque
-      qui ducimus ratione in quae asperiores cumque perferendis repudiandae
-      soluta eos at libero voluptates ipsa veniam sunt odio harum minima. Beatae
-      unde, repudiandae esse nam obcaecati quis quibusdam, facere fuga
-      consequatur non quisquam amet aliquam consectetur, expedita ratione? Ab,
-      nesciunt velit a magni dolorem numquam quasi illo aspernatur labore veniam
-      possimus mollitia sapiente fugiat ex explicabo libero hic magnam obcaecati
-      optio, temporibus iste. Tenetur ratione sequi laudantium veritatis odit
-      rem. Rem veritatis vitae porro minima. Facere dolor optio atque at
-      praesentium quos sapiente repudiandae libero? Earum rerum sit consequuntur
-      voluptas quos enim ullam, adipisci pariatur illum cum laborum culpa omnis
-      voluptatibus nobis perspiciatis temporibus nihil id nam illo placeat
-      libero? Animi voluptates dicta natus asperiores doloribus veniam magnam
-      modi cum expedita velit, dignissimos temporibus sunt necessitatibus
-      aperiam molestiae consequatur corporis molestias iste cupiditate maxime
-      quas. Facere suscipit laborum doloremque at neque. Repellendus minus
-      expedita quo. Ab nisi cumque enim repudiandae excepturi deserunt incidunt,
-      odit totam tenetur tempore soluta maiores debitis culpa inventore veniam
-      autem error obcaecati quae. Eligendi laudantium sint fugit beatae. Ex
-      praesentium tempora consectetur dolores blanditiis nam labore quasi
-      cupiditate quidem, veritatis eos recusandae perferendis libero
-      reprehenderit ipsa et dolorem! Dolore minus quo quisquam, cupiditate
-      sapiente voluptatum officia impedit ipsa? Aperiam nostrum, harum hic
-      deserunt laborum architecto ea sit a id dolor dignissimos sed quae,
-      accusantium voluptas autem quod. Earum magni neque, eveniet debitis enim
-      dolorem aliquam necessitatibus suscipit aliquid veritatis eius atque velit
-      eum cum recusandae animi, vero fugiat maxime quidem. Nihil, dolore. Quod
-      quidem dolorum fuga delectus repudiandae ad deserunt, voluptates eos nulla
-      id. Dignissimos neque omnis expedita dicta iure sapiente consequuntur
-      eaque! Quaerat adipisci numquam dolores ipsum sit eaque ipsa voluptas
-      provident ducimus sapiente! Minus nemo reiciendis suscipit, error unde
-      praesentium enim sint ut nostrum ab quas ipsum dolore explicabo sunt
-      nesciunt iure recusandae quae voluptatem. Labore laborum repellat commodi,
-      quod ipsa mollitia perferendis autem nesciunt asperiores placeat maiores
-      eum neque quo rem fugit sed optio, praesentium atque voluptatibus
-      molestias eaque amet id nisi? Quae tenetur dicta fuga iste, officiis,
-      vitae architecto commodi labore modi vel quasi distinctio quis cumque
-      porro doloremque error delectus expedita incidunt quam, voluptatum fugit!
-      Hic quidem voluptate dolore, accusamus ea ratione atque! Consequuntur et
-      tempore, nam accusantium dolorem culpa veritatis perspiciatis maxime
-      corporis cumque voluptatum nisi commodi dolor cum consectetur obcaecati at
-      vero ea sit eius. Doloremque ut odio labore deleniti voluptate, tempore
-      quaerat ipsam. Laboriosam velit sint pariatur nostrum vero recusandae,
-      ducimus laborum repellendus, ex explicabo inventore accusamus similique!
-      Iusto repudiandae sequi cumque, est suscipit incidunt? Ducimus impedit
-      esse nam quaerat nulla accusantium, harum culpa fugit, sit totam pariatur
-      error doloribus enim numquam porro eius cumque illum eligendi iste hic?
-      Inventore blanditiis distinctio aut praesentium illum delectus soluta
-      dolorum voluptates repellendus laborum dolores cum perspiciatis veritatis
-      aliquid, ipsum fugiat eum atque nostrum placeat quis nulla perferendis
-      repellat odio! In, doloribus distinctio eligendi asperiores sit nemo
-      aspernatur accusamus itaque nesciunt quas vel suscipit atque nam quasi
-      beatae commodi quam qui expedita quis deleniti nulla eveniet, voluptate
-      veritatis magnam. Provident expedita culpa officia temporibus nisi sequi
-      dicta tenetur deleniti magnam perferendis cumque quidem fugit qui modi sed
-      assumenda, illum quibusdam nihil veritatis iusto aut aperiam. Velit enim
-      repudiandae nisi eveniet inventore ipsa! Nisi enim quos ut consequatur
-      optio, saepe neque rerum consequuntur hic, cupiditate dolores? Vitae ut
-      recusandae doloremque ab repellendus. Facilis, nisi. Molestiae, animi
-      dolorum deserunt, ipsa aut veniam repudiandae nihil, quis recusandae ipsum
-      voluptas sapiente quam iusto qui eum iste odit enim perferendis?
-      Voluptatibus, error! Necessitatibus expedita praesentium quidem eos
-      molestiae nisi, perferendis totam neque esse in alias deleniti quam ut
-      architecto fugit incidunt pariatur? Cum quis aperiam veritatis in, earum
-      repellat, tenetur, laboriosam commodi nostrum ea beatae! Doloribus,
-      nesciunt nobis. Explicabo, laborum. Sapiente corporis consectetur neque
-      exercitationem quam? Repellat, necessitatibus similique mollitia
-      repudiandae aut asperiores dolorem debitis, autem, voluptatum at maiores
-      suscipit ut magni voluptates facere error aliquam! Totam vitae blanditiis
-      dicta quia fugiat dolore sequi laborum ab debitis! Laudantium consequuntur
-      voluptatem cum nostrum quae architecto tenetur eaque nobis quasi delectus
-      ab tempora iste exercitationem illum vero unde a dolor ipsam quam
-      molestiae numquam, facere placeat neque. Accusantium incidunt odio
-      possimus veniam nisi ea! Rem similique voluptatum at commodi, debitis
-      ipsa!
+      <div className="flex items-center gap-14 h-fit w-[1024px] mx-auto rounded-4xl px-20 py-0 my-10 bg-[#111111]">
+        <img
+          src={HomeManage}
+          alt="home-manage"
+          data-aos="fade-up"
+          data-aos-duration="1000"
+          className="w-96"
+        />
+        <div
+          data-aos="fade-up"
+          data-aos-duration="1000"
+          className="flex flex-col gap-10 text-start"
+        >
+          <h1 className="text-[42px] text-white leading-[1.2]">
+            มากกว่าการลงทุน คือ
+            <span className=" text-[#5DF591] ml-2">การจัดการการลงทุน</span>
+          </h1>
+          <p className="text-[18px] text-white font-light leading-[1.8]">
+            <span>แอปพลิเคชัน Dime!</span>
+            ช่วยให้คุณบริหารจัดการชีวิตการเงินการลงทุนของคุณได้ง่ายขึ้น
+            ด้วยฟีเจอร์เครื่องมือสุดล้ำไม่เหมือนใคร
+            อย่างเครื่องมือบันทึกสินทรัพย์ Asset Tracker
+            หรือลองทำแบบทดสอบเพื่อค้นหาตัวละคร Dime! ของคุณ
+            รับคำแนะนำการลงทุนเพื่อคุณโดยเฉพาะ
+          </p>
+          <Link
+            to="/manage"
+            className="flex items-center justify-center h-14 w-[200px] rounded-xl bg-[#5DF591] transition hover:bg-[#5DF59199]"
+          >
+            ดูเพิ่มเติม
+          </Link>
+        </div>
+      </div>
+      <div
+        data-aos="fade-up"
+        data-aos-duration="1000"
+        className="flex flex-col justify-center items-center texy-center gap-15 my-20"
+      >
+        <div className="flex gap-2 text-[42px] items-center">
+          <HightLightText>ปลอดภัย</HightLightText>
+          <h1>ไร้กังวล</h1>
+        </div>
+        <p className="text-[18px] font-light text-[#4D5053] text-center max-w-[800px] leading-[1.8]">
+          บริษัทหลักทรัพย์ เคเคพี ไดม์ (KKP Dime) ผู้ให้บริการแอปพลิเคชัน Dime!
+          ได้รับใบอนุญาตประกอบธุรกิจหลักทรัพย์จากสำนักงาน ก.ล.ต. บัญชีออมทรัพย์
+          Dime! Save ให้บริการโดยธนาคารเกียรตินาคินภัทร ได้รับความคุ้มครองภายใต้
+          พ.ร.บ. สถาบันคุ้มครองเงินฝากในวงเงิน 1 ล้านบาท ต่อ 1 รายผู้ฝากเงิน ต่อ
+          1 สถาบันการเงิน
+          หลักทรัพย์และเงินลงทุนสกุลดอลลาร์สหรัฐมีผู้รับฝากทรัพย์สิน (Custodian
+          Bank) ช่วยดูแลและเก็บรักษา และได้รับการคุ้มครองโดย SIPC
+          องค์กรไม่แสวงหาผลกำไรของสหรัฐอเมริกาซึ่งมีหน้าที่คุ้มครองหลักทรัพย์และเงินลงทุนของผู้ลงทุนในบริษัทหลักทรัพย์ที่เป็นสมาชิกของ
+          SIPC วงเงินสูงสุด 500,000 ดอลลาร์สหรัฐต่อนักลงทุนหนึ่งราย
+        </p>
+        <div className="flex justify-center gap-20 w-full">
+          <img src={KkpLogo} alt="kkp-logo" />
+          <img src={DimeLogo} alt="dime-logo" />
+        </div>
+      </div>
     </div>
   );
 }
